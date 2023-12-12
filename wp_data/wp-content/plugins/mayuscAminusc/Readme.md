@@ -65,9 +65,13 @@ register_activation_hook(__FILE__, 'crear_tablas');
 ```
 
 ## Captura de pantalla
+### Agrego la palabra "DAMIAN"
 ![1](Captura1.png)
+### Se me guarda en la base de datos como "damian"
 ![2](Captura2.png)
+### Escribo en el post todas las palabras que tengo en mi base de datos
 ![3](Captura3.png)
+### Visualiso en el WordPress las palabras convertidas
 ![4](Captura4.png)
 
 ### ¡Disfruta de la funcionalidad simple pero efectiva de Conversor Mayúsculas a Minúsculas en tu sitio de WordPress!
