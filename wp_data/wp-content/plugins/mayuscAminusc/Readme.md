@@ -65,7 +65,7 @@ register_activation_hook(__FILE__, 'crear_tablas');
 ```
 
 ## Captura de pantalla
-![1](Captura1)
+![1](Captura1.png)
 ![2](Captura2.png)
 ![3](Captura3.png)
 ![4](Captura4.png)
