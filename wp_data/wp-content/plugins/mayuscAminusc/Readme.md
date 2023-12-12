@@ -65,9 +65,9 @@ register_activation_hook(__FILE__, 'crear_tablas');
 ```
 
 ## Captura de pantalla
-![1](Captura1.png)
-![2](Captura2.png)
-![3](Captura3.png)
-![4](Captura4.png)
+![1](./mayuscAminusc.php/Captura1)
+![2](./mayuscAminusc.php/Captura2.png)
+![3](./mayuscAminusc.php/Captura3.png)
+![4](./mayuscAminusc.php/Captura4.png)
 
 ### ¡Disfruta de la funcionalidad simple pero efectiva de Conversor Mayúsculas a Minúsculas en tu sitio de WordPress!
